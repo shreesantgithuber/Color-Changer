@@ -20,6 +20,10 @@
     background-color: purple;
 }
 
+#yellow{
+    background-color: yellow;
+}
+
 .container{
     display: flex;
     gap:2rem;
