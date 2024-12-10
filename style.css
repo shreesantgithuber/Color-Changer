@@ -28,6 +28,10 @@
     background-color: lightgreen;
 }
 
+#lightblue{
+    background-color: lightblue;
+}
+
 .container{
     display: flex;
     gap:2rem;
