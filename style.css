@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color{
+    height: 30vh;
+    width: 18vw;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#purple{
+    background-color: purple;
+}
+
+.container{
+    display: flex;
+    gap:2rem;
+}
