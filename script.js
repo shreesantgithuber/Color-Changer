@@ -14,7 +14,10 @@ Array.from(allContainers).map((element,index)=>{
         }else if(e.target.id === "yellow")
         {
             document.body.style.backgroundColor=e.target.id;
-        }
+        }else if(e.target.id === "lightgreen")
+            {
+                document.body.style.backgroundColor=e.target.id;
+            }
     })
 })
 

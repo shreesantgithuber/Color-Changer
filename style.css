@@ -24,6 +24,10 @@
     background-color: yellow;
 }
 
+#lightgreen{
+    background-color: lightgreen;
+}
+
 .container{
     display: flex;
     gap:2rem;
